@@ -1,14 +1,30 @@
-## keep ebay-kleinanzeigen simple stupid
+# Keep ebay-kleinanzeigen simple stupid
 
+## When is this tool useful?
 
-prerequisites: firefox
+- if you want to buy in bulk at the lowest price.
 
-Shows all searchresults only as clickable pictures, multiple in one line.
+## Why does it saves you time using ebay-kleinanzeigen?
 
-Select favorites by pressing ctrl+leftMouseButton on the corresponding picture.
+- you can overview and skip more offers per time
 
-usage: ./ebay-kleinanzeigen_kiss.sh searchTerm firstPrice lastPrice
+## What exactly is different than without this tool?
 
-Begin with a small price-range to prevent usage of a large processingtime.
+- Shows multiple searchresults per line without text.
+- 50 searchresult per screen.
+- all results on one page (scrollable)
+
+## prerequisites
+
+- firefox
+
+### Usage
+
+- ./ebay-kleinanzeigen_kiss.sh searchTerm firstPrice lastPrice
+- Select favorites by pressing ctrl+leftMouseButton on the corresponding picture.
+
+### Tips
+
+- Begin with a small price-range to prevent usage of a large processingtime.
 
 enjoy
